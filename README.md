@@ -11,4 +11,3 @@ Features:
 - Responsive design for seamless use on various devices
 - Clear and intuitive user interface
 
-Feel free to customize this description further to better fit your project's specifics and any additional features it may have.
