@@ -1,6 +1,6 @@
  # Calculator
 
-This project is a simple and responsive calculator built using JavaScript, CSS, and HTML. It performs basic arithmetic operations such as addition, subtraction, multiplication, and division. The interface is user-friendly and designed to work seamlessly on both desktop and mobile devices.
+This project is a simple and responsive calculator built using JavaScript, CSS, and HTML. It performs basic arithmetic operations such as addition, subtraction, multiplication, and division. The interface is user-friendly.
 
 You can try it here: [Calculator](https://lucekkk.github.io/calculator/)
 
